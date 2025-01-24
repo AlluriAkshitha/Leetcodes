@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0202-happy-number) |
 | [0537-complex-number-multiplication](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0537-complex-number-multiplication) |
 ## String
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1179-game-play-analysis-i) |
 | [1827-invalid-tweets](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
