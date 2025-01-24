@@ -34,5 +34,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0584-find-customer-referee) |
 | [1179-game-play-analysis-i](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
