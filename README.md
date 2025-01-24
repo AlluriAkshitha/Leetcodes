@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0678-valid-parenthesis-string) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
