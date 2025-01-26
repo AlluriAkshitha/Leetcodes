@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0110-balanced-binary-tree) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Binary Tree
 |  |
 | ------- |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AlluriAkshitha/Leetcodes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Graph
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
