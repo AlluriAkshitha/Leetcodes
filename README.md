@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0110-balanced-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Binary Tree
 |  |
@@ -77,13 +78,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
