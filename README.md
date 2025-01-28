@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0110-balanced-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0037-sudoku-solver) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AlluriAkshitha/Leetcodes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Union Find
 |  |
 | ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AlluriAkshitha/Leetcodes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1558-course-schedule-iv) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0037-sudoku-solver) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
