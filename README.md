@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0202-happy-number) |
+| [1364-tuple-with-same-product](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0037-sudoku-solver) |
+| [1364-tuple-with-same-product](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -130,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
