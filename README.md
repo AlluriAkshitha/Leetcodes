@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0537-complex-number-multiplication) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AlluriAkshitha/Leetcodes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0202-happy-number) |
 | [1364-tuple-with-same-product](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AlluriAkshitha/Leetcodes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AlluriAkshitha/Leetcodes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AlluriAkshitha/Leetcodes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AlluriAkshitha/Leetcodes/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AlluriAkshitha/Leetcodes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Union Find
 |  |
 | ------- |
