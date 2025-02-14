@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0202-happy-number) |
 | [0537-complex-number-multiplication](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0537-complex-number-multiplication) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0037-sudoku-solver) |
 | [1364-tuple-with-same-product](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2448-count-number-of-bad-pairs) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Breadth-First Search
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
