@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0537-complex-number-multiplication) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0037-sudoku-solver) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
