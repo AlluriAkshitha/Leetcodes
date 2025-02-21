@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0202-happy-number) |
 | [1160-letter-tile-possibilities](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2434-design-a-number-container-system) |
@@ -80,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0110-balanced-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0110-balanced-binary-tree) |
 | [0684-redundant-connection](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0684-redundant-connection) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0110-balanced-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0684-redundant-connection) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Search
@@ -177,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
