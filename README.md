@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0202-happy-number) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0110-balanced-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -95,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0110-balanced-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0037-sudoku-solver) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
