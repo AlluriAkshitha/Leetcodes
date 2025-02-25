@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0202-happy-number) |
 | [0537-complex-number-multiplication](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0537-complex-number-multiplication) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AlluriAkshitha/Leetcodes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0678-valid-parenthesis-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
