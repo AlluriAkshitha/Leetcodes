@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0678-valid-parenthesis-string) |
 | [1160-letter-tile-possibilities](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AlluriAkshitha/Leetcodes/tree/master/0678-valid-parenthesis-string) |
+| [1170-shortest-common-supersequence](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AlluriAkshitha/Leetcodes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Stack
 |  |
